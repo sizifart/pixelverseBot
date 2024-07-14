@@ -18,13 +18,6 @@
 |------------------------------|------------------------------------------------------------------------------------------------|
 | query_id        | fill the `initdata.txt` file with your data, how to get data you can refer to [How to Get Data](#how-to-get-data)                      |
 
-# Config.json file explanation
-
-| key        | description                                   |
-| ---------- | --------------------------------------------- |
-| interval   | waiting time duration for each request / mine |
-| min_energy | minimum energy to login sleep mode            |
-| sleep      | timeout duration when energy runs out         |
 
 ## Requirements
 - Python 3.9 (you can install it [here](https://www.python.org/downloads/release/python-390/)) 
